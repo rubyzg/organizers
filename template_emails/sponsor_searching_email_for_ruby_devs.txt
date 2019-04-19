@@ -1,0 +1,17 @@
+Hi Rubyists!
+
+This month our sponsor is <sponsor name> and they are looking for Ruby devs!
+
+Some of the perks of working with them:
+
+- cool project with astronomical growth
+- competetive pay
+- <perk 3>
+- <perk 4>
+
+If you wanna find more about the job requirements check out their job ad at:
+<job ad link>
+
+See you on a meetup on <date, time>.
+
+<Meetup organizer name>
